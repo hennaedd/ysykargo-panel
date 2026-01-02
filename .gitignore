@@ -34,6 +34,38 @@ migrate_working_dir/
 # Symbolication related
 app.*.symbols
 
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+
+# Node
+node_modules/
+functions/node_modules/
+
+# Firebase
+.firebase/
+.firebaserc
+
+# Flutter
+.build/
+.dart_tool/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+
+
+
 # Obfuscation related
 app.*.map.json
 

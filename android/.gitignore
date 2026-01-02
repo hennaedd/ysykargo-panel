@@ -11,3 +11,20 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+
+# Node
+node_modules/
+functions/node_modules/
+
+# Firebase
+.firebase/
+.firebaserc
+
+# Flutter
+.build/
+.dart_tool/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+
