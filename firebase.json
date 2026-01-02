@@ -1,0 +1,20 @@
+{
+    "database": {
+        "rules": "database.rules.json"
+    },
+    "functions": {
+        "source": "functions"
+    },
+    "flutter": {
+        "platforms": {
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "ilkuygulama-3705c",
+                    "configurations": {
+                        "web": "1:519447350961:web:2ff30bb004ef310c26dc90"
+                    }
+                }
+            }
+        }
+    }
+}

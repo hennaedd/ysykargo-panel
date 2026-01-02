@@ -1,0 +1,13 @@
+{
+  "rules": {
+    ".read": "true",
+    ".write": "true",
+    "gonderiler": {
+      ".read": "true",
+      ".write": "true"
+    },
+    "notifications": {
+      ".indexOn": "timestamp"
+    }
+  }
+}
